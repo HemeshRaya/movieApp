@@ -1,5 +1,12 @@
-.App{
- margin-top: 20px;
+.movies-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 90%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 2px darkgrey;
+    padding: 20px;
 }
 
 .header{
